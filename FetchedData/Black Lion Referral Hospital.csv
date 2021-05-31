@@ -1,0 +1,3 @@
+_id,name,fatherName,grandFatherName,gender,dateOfBirth,dayOfBirth,monthOfBirth,yearOfBirth,age,address,phoneNumber,history,__v
+5fcca24caea6906cb2ce21b8,Filimoii,Worku,Shiferaw,M,21,Monday,February,1997,23,Nekemt,0931635377,"[{""_id"":""5fcca24caea6906cb2ce21b9"",""date"":""December 06 20202"",""test"":""Corona"",""description"":""Please Isolate Yoursekf""}]",0
+5fcca287aea6906cb2ce21ba,Lioul,Behailu,Desta,M,20,Sunday,April,1997,23,DB,0931635377,"[{""_id"":""5fcca287aea6906cb2ce21bb"",""date"":""December 06 20202"",""test"":""TB"",""description"":""Please Isolate Yoursekf""}]",0
